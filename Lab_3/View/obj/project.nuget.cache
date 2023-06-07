@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZpD8L6S7f4QG1O9MWMr6MVPSbyFNCeeKEOwThiML1pRA2vO+ApLkRXARVeZPylRx5Vq3HfNLDu22MJ1JHoFYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\kpi\\.NET\\Lab_3\\View\\View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

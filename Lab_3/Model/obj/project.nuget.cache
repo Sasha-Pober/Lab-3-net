@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wmzu97iJWqZrg13sXxso8VCOkP/rrxl71mi7GXIG2ypKA2SW5khpzu6ZRWwVdz8nqLALZrwBS5roIGsDutGl5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\kpi\\.NET\\Lab_3\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
